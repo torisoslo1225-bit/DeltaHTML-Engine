@@ -1,0 +1,14 @@
+{
+  "kris": {
+    "idle": [
+      "spr_krisd_0.png"
+    ],
+    "walk": [
+      "spr_krisd_0.png",
+      "spr_krisd_1.png",
+      "spr_krisd_2.png",
+      "spr_krisd_3.png"
+    ],
+    "speed": 8
+  }
+}
