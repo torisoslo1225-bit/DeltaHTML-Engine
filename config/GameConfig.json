@@ -1,0 +1,7 @@
+{
+  "name": "DeltaHTML Engine",
+  "version": "0.1.0",
+  "resolution": [640,480],
+  "battleSystem": true,
+  "overworldSystem": true
+}
